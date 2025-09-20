@@ -7,7 +7,7 @@ function adicionarCaracter(caracter){
 }   
 
 function limparTela(){
-    document.querySelector('.display').value = ' ' /*caracter vazio = nada = limpar tela*/
+    document.querySelector('.display').value = '' /*caracter vazio = nada = limpar tela*/
 }
 
 function calcular(){
